@@ -26,4 +26,4 @@ Una vez tenga el driver correspondiente debe verificar que la direccion de este 
 `System.setProperty("webdriver.chrome.driver","DIRECTORIO DEL DRIVER");`
 
 ### Ejecucion
-Para ejecutar el test debe ejecutar el archivo `src/tes/java/CPUS002Test.java` el cual contiene el respectivo test. 
+Para correr el test debe ejecutar el archivo `src/tes/java/CPUS002Test.java` el cual contiene el respectivo test. 
